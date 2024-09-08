@@ -12,7 +12,6 @@
 #include <set>     //checking for dupe numbers
 #include <stdio.h> //for spintf
 using namespace std;
-using namespace std::chrono;
 
 class Sudoku : public Fl_Window {
 public:
